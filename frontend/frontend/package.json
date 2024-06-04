@@ -1,5 +1,13 @@
 {
+  "name": "frontend",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "vite build"
+  },
   "dependencies": {
     "frontend": "file:.."
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
   }
 }
